@@ -25,4 +25,4 @@ POAP is op een missie om mensen te verbinden door middel van kostbare verzamelob
 
 We kijken ernaar uit dat community’s, videomakers en iedereen Checkout gaan gebruiken en tegelijkertijd nieuwe gebruiksscenario’s inspireren. Of u nu een OG bent of een nieuwe uitgever, we nodigen u uit om de kracht van POAP Checkout te ontdekken!
 
-Create POAP Checkout Link: ![](https://checkout.poap.xyz/admin/create)
+[Create POAP Checkout Link](https://checkout.poap.xyz/admin/create)
